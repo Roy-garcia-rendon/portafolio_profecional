@@ -397,7 +397,7 @@ var VanillaTilt = (function () {
          * @param {number} settings.max 
          * @param {startX} settings.startX 
          * @param {startY} settings.startY 
-         * @param {number} settings.perspective 
+         * @param {number} settings.perspective
          * @param {string} settings.easing 
          * @param {number} settings.scale 
          * @param {number} settings.speed 
