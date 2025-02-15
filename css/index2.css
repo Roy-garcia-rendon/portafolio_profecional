@@ -1,24 +1,47 @@
+.proyectos {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
 .siyeca {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 20px;
+    margin-top: 40px;
 }
 
-.content2 {
-    max-width: 800px;
-    margin: auto;
-}
-
-.content2 img {
-    display: block;
-    margin: 20px auto;
-    width: 70%;
-    max-width: 500px;
+.siyeca img {
+    width: 60%;
+    /* Tamaño medio-grande */
+    max-width: 5000px;
     height: auto;
-    border-radius: 10px;
+    margin-top: 20px;
 }
+
+.erra {
+    margin-top: 20px;
+}
+
+.traba svg {
+    width: 30px;
+    /* Ajusta el tamaño del icono */
+    height: auto;
+    fill: #ffffff;
+    /* Cambia el color si es necesario */
+}
+
+.erra h1 {
+    color: rgb(245, 233, 233);
+}
+
+.content2 p {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
 
 /* social media icons */
 

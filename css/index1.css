@@ -30,22 +30,6 @@ body::after {
     clip-path: circle(20% at 1% -10%);
 }
 
-.navbar ul li {
-    position: relative;
-    float: left;
-}
-
-.navbar ul li a {
-    font-size: 18px;
-    padding: 15px;
-    color: #ffffff;
-    display: block;
-}
-
-.navbar ul li a:hover {
-    color: #504545;
-}
-
 .container {
     position: relative;
     display: flex;
