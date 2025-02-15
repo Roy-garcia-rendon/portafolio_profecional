@@ -45,3 +45,21 @@
     opacity: 0;
     transition-duration: .3s;
 }
+
+
+
+
+
+
+
+
+
+.gid a {
+    display: inline-block;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.gid a:hover {
+    transform: scale(1.2);
+
+}
